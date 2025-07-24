@@ -7,5 +7,5 @@ export default defineConfig({
   plugins: [
     tailwindcss(),
   ],
-  base: '/currency-converter/',
+  base: '/', // Use root path for custom domain
 })
