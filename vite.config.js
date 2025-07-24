@@ -7,5 +7,5 @@ export default defineConfig({
   plugins: [
     tailwindcss(),
   ],
-  base: '/currency-converter/', // Replace 'currency-converter' with your actual repository name
+  base: '/currency-converter/',
 })
